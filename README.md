@@ -1,5 +1,3 @@
-#praktikum1
-
 latihan1.cpp:Program menghitung Luas segitiga
 
 alur algoritma
