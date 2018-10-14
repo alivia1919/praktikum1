@@ -105,6 +105,9 @@ berikut kode lengkapnya :
 #include <iostream>
 using namespace std;
 
+#include <iostream>
+using namespace std;
+
 int main()
 {
   int n;
@@ -122,5 +125,7 @@ int main()
 
 
 Maaf jika ada kesalahan karna saya masih dalam proses pembelajaran
+
 jika ada yang salah mohon comment agar bisa saya perbaiki dan bisa menjadi pembelajaran kedepannya
+
 sekian dan TERIMA KASIH
